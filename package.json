@@ -1,0 +1,19 @@
+{
+  "name": "Solar Energy Calculator",
+  "version": "1.0.0",
+  "description": "Solar Energy Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmafewer/sun-solvers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmafewer/sun-solvers/issues"
+  },
+  "homepage": "https://github.com/emmafewer/sun-solvers#readme"
+}
