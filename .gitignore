@@ -1,0 +1,32 @@
+# Node modules directory
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+jspm_packages/
+
+# Environment variable files
+.env
+
+coverage/
+
+# npm debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output directories
+dist/
+build/
+
+# Temporary files and directories
+tmp/
+temp/
+.DS_Store
+
+# IDE directories and files
+.vscode/
+.idea/
